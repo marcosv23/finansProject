@@ -10,6 +10,6 @@ https://marcosv23.000webhostapp.com/
 
 This contains a responsive layout. 
 
-Some items of app disappear into a lower screen
+Any  app items disappear on a lower screen
 
 This was my first project using Bootstrap and its features
