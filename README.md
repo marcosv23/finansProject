@@ -2,9 +2,9 @@
 
 This project is tottaly based on Bootstrap, CSS and HTML.
 
-It uses several features of Bootstrap 4 and below;
+It uses several features of Bootstrap 4 and above technologies;
 
-This page can be acessed either at:
+This page can be acessed  at:
 
 https://marcosv23.github.io/finansProject/
 
