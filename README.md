@@ -12,4 +12,4 @@ This contains a responsive layout.
 
 Any  app items disappear on a lower screen
 
-This was my first project using Bootstrap and its features
+This was  one of my first project using Bootstrap and its features
