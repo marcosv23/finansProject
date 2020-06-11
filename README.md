@@ -6,7 +6,7 @@ It uses several features of Bootstrap 4 and below;
 
 This page can be acessed either at:
 
-https://marcosv23.000webhostapp.com/
+https://marcosv23.github.io/finansProject/
 
 This contains a responsive layout. 
 
